@@ -4,6 +4,8 @@
 ### 使用方式
 1. Chrome、Edge、Firefox浏览器打开想要抽奖的视频页面，例如：https://www.bilibili.com/video/BV13K4y1X7dC
 2. F12或者点击右键》选择检查，打开控制台，选择console【中文：控制台】这个标签页
+![2022-02-20 13 42 37](https://user-images.githubusercontent.com/28336270/154830389-47453a0f-f53b-46e6-99f6-4466d1839e5a.gif)
+
 3. 把下面代码粘贴进去，然后按回车即可, **最后一行有个数字2，代表抽几个人，改成几就抽几个**
 
 #### 效果
