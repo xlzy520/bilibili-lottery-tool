@@ -2,11 +2,11 @@
 哔哩哔哩(bilibili)评论区抽奖工具，超硬核，可以去重，查看抽奖的人是否关注自己
 
 ### 使用方式
-1.Chrome、Edge、Firefox浏览器打开想要抽奖的视频页面，例如：https://www.bilibili.com/video/BV13K4y1X7dC
+1. Chrome、Edge、Firefox浏览器打开想要抽奖的视频页面，例如：https://www.bilibili.com/video/BV13K4y1X7dC
 2. F12或者点击右键》选择检查，打开控制台，选择console【中文：控制台】这个标签页
 3. 把下面代码粘贴进去，然后按回车即可, **最后一行有个数字2，代表抽几个人，改成几就抽几个**
 
-#### code
+#### 代码
 ```js
 class Lottery {
   constructor(num) {
